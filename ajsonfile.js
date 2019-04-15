@@ -1,1 +1,2 @@
 afile
+a word
